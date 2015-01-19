@@ -1,3 +1,10 @@
+## 
+
+bin/
+.DS_Store
+
+
+## defaults from C++ template on github
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +33,10 @@
 *.exe
 *.out
 *.app
+Max-OF_template.xcodeproj/project.pbxproj
+Max-OF_template.xcodeproj/project.xcworkspace/xcshareddata/shissss.xccheckout
+Max-OF_template.xcodeproj/project.xcworkspace/xcuserdata/bloit.xcuserdatad/WorkspaceSettings.xcsettings
+Max-OF_template.xcodeproj/xcshareddata/xcschemes/Max-OF_template Debug.xcscheme
+Max-OF_template.xcodeproj/xcshareddata/xcschemes/Max-OF_template Release.xcscheme
+Max-OF_template.xcodeproj/xcuserdata/bloit.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+Max-OF_template.xcodeproj/xcuserdata/bloit.xcuserdatad/xcschemes/xcschememanagement.plist
