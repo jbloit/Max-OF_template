@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>29FD5284-2CD6-4541-ABA7-355A22E6EFDB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>shissss</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E47E0751DCBFF97B78F5812A78AD9A5C1D41F67D</key>
+		<string>https://github.com/jbloit/un-oeuf-OF.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>scene_projections/shissss.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E47E0751DCBFF97B78F5812A78AD9A5C1D41F67D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jbloit/un-oeuf-OF.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E47E0751DCBFF97B78F5812A78AD9A5C1D41F67D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E47E0751DCBFF97B78F5812A78AD9A5C1D41F67D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>un-oeuf-OF</string>
+		</dict>
+	</array>
+</dict>
+</plist>
